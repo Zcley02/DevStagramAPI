@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('titulo')
-    Página Principal
+    Registrarse en DevStagram
 @endsection
