@@ -22,6 +22,6 @@ class LoginController extends Controller
             ])->onlyInput('email');
         }
 
-        return redirect()->route('posts.index');
+        return redirect()->route('posts.index', auth()->user()->username);
     }
 }
