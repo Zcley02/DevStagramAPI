@@ -89,10 +89,11 @@
                         placeholder="Repite tu password"
                     >
                 </div>
-                    <input 
-                        type="submit"
-                        class="bg-sky-600 hover:bg-sky-800 transition-colors text-white p-2 w-full rounded-lg font-bold"
-                    >
+                <input 
+                    type="submit"
+                    value="Crear Cuenta"
+                    class="bg-sky-600 hover:bg-sky-800 transition-colors text-white p-2 w-full rounded-lg font-bold"
+                >
                 
             </form>
         </div>
