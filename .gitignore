@@ -19,3 +19,9 @@ yarn-error.log
 /.idea
 /.vscode
 /.zed
+/public/uploads/*.jpg
+/public/uploads/*.png
+/public/uploads/*.jpeg
+/public/perfiles/*.jpg
+/public/perfiles/*.png
+/public/perfiles/*.jpeg
